@@ -15,6 +15,7 @@ function getEven(arr) {
         }
         return ans;
    }
+//    Another function is using filter function
 
 function multiplyByN(arr, n) {
     /* 
